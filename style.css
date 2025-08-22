@@ -215,7 +215,7 @@ h1, h2, h3 {
   ===========================*/
 .hero-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, var(--bg-light) 0%, rgba(255,255,255,0) 100%), url('https://i.imgur.com/sNNpj02.png') no-repeat center center / cover;
+  background: linear-gradient(to bottom, var(--bg-light) 0%, rgba(255,255,255,0) 100%), url('https://i.imgur.com/RdJPGLy.png') no-repeat center center / cover;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -623,3 +623,4 @@ h1, h2, h3 {
     justify-content: flex-start;
   }
 }
+
